@@ -1,5 +1,5 @@
 # Welcome to Coral K8S
-
+![image](./thumbnail.png)
 ## Empowering the Future of Kubernetes with Open Source Excellence
 
 Welcome to **Coral K8S**, your go-to hub for innovative, community-driven Kubernetes solutions! At Coral K8S, we believe in the power of open source to transform the way organizations manage and optimize their Kubernetes environments. Our mission is to provide cutting-edge tools and services that simplify complex Kubernetes operations, ensuring seamless scalability, enhanced security, and unparalleled performance.
