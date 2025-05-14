@@ -1,4 +1,4 @@
-# Welcome to Coral K8S
+# Welcome to Coral Land
 ![image](./thumbnail.png)
 ## Empowering the Future of Kubernetes with Open Source Excellence
 
