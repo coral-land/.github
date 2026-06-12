@@ -62,5 +62,3 @@ Together, we're creating systems that are scalable, resilient, and built to last
 
 ### Engineering Reliable Distributed Systems
 
-Welcome to Coral Land.
-
